@@ -7,6 +7,7 @@ Over my time at Makers, I built a few different projects to "learn how to learn"
 
 | Project Name | Description | Tech Stack |
 |---|---|---|
+| [Simple Asset Tracker](https://github.com/makersacademy/simpleassettracker) | An Asset Tracker without all the unnecessary bells and whistles. Perfect for start-ups who need to manage their laptop fleet. | Python, Django, React |
 | [PostBox](https://github.com/Kefuri/MakersPostBox) | A Virtual Gifting app to send care packages full of fun images and videos to friends and loved ones - a way of sharing some joy in harder times. You can find it deployed [here](http://makers-postbox.herokuapp.com/) | Ruby on Rails, JavaScript, HTML, Embedded Ruby, RSpec, Capybara |
 | [AceBook](https://github.com/Kefuri/acebook-catflap) | A Facebook clone built in a 2 week period where user stories and requirements were provided by Makers coaches. Deployed [here](http://acebook-catflap.herokuapp.com/) | Ruby on Rails, JavaScript, RSpec, Capybara  |
 | [Bank Tech Test](https://github.com/Kefuri/MakersBankTechTest) | A 3 day challenge to cover the format of writing a tech test. The code was reviewed under strict guidelines to ensure a high quality was met. | Ruby, RSpec |
